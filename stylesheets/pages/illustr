@@ -12,6 +12,9 @@
   flex-wrap: wrap;
   padding: 20px 5px; }
 
+.i-container img {
+  border-radius: 3px; }
+
 .i-texte {
   text-align: center;
   padding: 0px 15px 8px 15px;
