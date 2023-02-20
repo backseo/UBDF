@@ -11,3 +11,4 @@ gem 'bootstrap-sass'
 gem 'font-awesome-middleman'
 
 gem 'net-ftp'
+gem 'mini_racer', '~> 0.6.3'
